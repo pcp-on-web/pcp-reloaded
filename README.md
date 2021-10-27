@@ -1,5 +1,6 @@
-# Konferenz, Workshop und Hackathon
-## Professorale Karrieremuster Reloaded – Daten, Methoden und Analysen der digitalen Frühneuzeitforschung zur Universitäts- und Gelehrtengeschichte
+#Conference, Workshop and Hackathon
+##Professorial Career Patterns Reloaded – Data, Methods and Analysis of Digital Humanities Research in the Field of Early Modern Academic History
+
 
 Welcome to the Hackathon starting November 1st, 2021.
 
